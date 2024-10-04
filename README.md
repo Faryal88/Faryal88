@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I’m [Faryal Abbasi]
+A passionate [Front-End Developer] from [Pakistan]
 
-<!--
-**Faryal88/Faryal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning [Next.js]
+- 🌱 I’m currently learning [GIAIC]
+- 👨‍💻 All of my projects are available at https://github.com/Faryal88
+- 💬 Ask me about [Nextjs, HTML, CSS]
+- 📫 How to reach me: [faryalabbasi88@gmail.com]
+- ⚡ Fun fact: [I am a Self Learner]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 IConnect with me:
+Facebook Instagram YouTube
+
+Languages and Tools:
+CSS3 Figma HTML5 Next.js TypeScript’m currently working on ...
+
+
