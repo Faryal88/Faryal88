@@ -9,11 +9,6 @@ A passionate [Front-End Developer] from [Pakistan]
 - ⚡ Fun fact: [I am a Self Learner]
 
 
-![My Profile Image](C:\Users\faiez\OneDrive\Desktop\FA Hairsalon\Me.jfif)
-- 🔭 IConnect with me:
-Facebook Instagram YouTube
 
-Languages and Tools:
-CSS3 Figma HTML5 Next.js TypeScript’m currently working on ...
 
 
