@@ -1,5 +1,5 @@
-Hi 👋, I’m [Faryal Abbasi]
-A passionate [Front-End Developer] from [Pakistan]
+                                                        Hi 👋, I’m [Faryal Abbasi]
+                                             A passionate [Front-End Developer] from [Pakistan]
 
 - 🔭 I’m currently learning [Next.js]
 - 🌱 I’m currently learning [GIAIC]
