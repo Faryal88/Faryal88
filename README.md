@@ -1,3 +1,10 @@
+<h1 align='center'>Modern Web & App Development</h1>
+
+<img src='./imgs/banner.png'/>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
+
+
 <h1 align="center">Hi 👋, I'm Faryal Abbasi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
