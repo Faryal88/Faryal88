@@ -1,10 +1,5 @@
-<img src='![Github faryal banner](https://github.com/user-attachments/assets/069cc9bf-7af1-4fe2-9436-f4f1bb54d34f)'/>
-
-<p align="center"><img src="![Github faryal banner](https://github.com/user-attachments/assets/ac18351b-e540-40d8-b7d2-292387ff0934)" /><p/>
-
-
 <h1 align="center">Hi 👋, I'm Faryal Abbasi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a69ef1e4a173201181c22ac940c8b17935229d4d45ac5276631cbf4ba3d21db4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" />
 
