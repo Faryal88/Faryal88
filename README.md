@@ -1,6 +1,4 @@
-<h1 align='center'>Modern Web & App Development</h1>
-
-<img src='./imgs/banner.png'/>
+<img src='![Github faryal banner](https://github.com/user-attachments/assets/069cc9bf-7af1-4fe2-9436-f4f1bb54d34f)'/>
 
 <p align="center"><img src="![Github faryal banner](https://github.com/user-attachments/assets/ac18351b-e540-40d8-b7d2-292387ff0934)" /><p/>
 
